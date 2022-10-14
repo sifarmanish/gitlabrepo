@@ -1,2 +1,3 @@
 this is file1.txt
 line added at local
+added at remote
